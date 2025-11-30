@@ -3,7 +3,7 @@
 # 📚 **RevisorIA**
 ### Plataforma inteligente para revisión automática de trabajos académicos
 
-![banner](https://raw.githubusercontent.com/your-image-here/banner.png)
+![banner](![a0759bb8-5fef-4475-b922-5967bc2070da](https://github.com/user-attachments/assets/28168b13-88bd-4116-9640-058947e37c98))
 
 [![Made with MERN](https://img.shields.io/badge/MERN-Stack-43A047?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![OpenAI Powered](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai)]()
