@@ -18,8 +18,6 @@
 
 ---
 
----
-
 # 🚀 **Características principales**
 
 ### ✅ **Revisión automática con IA**
@@ -87,3 +85,44 @@
 ├── docker-compose.yml     # Orquestación
 ├── README.md              # Este archivo
 └── .github/workflows/     # CI/CD
+
+---
+
+🧪 Metodología TDD
+
+RevisorIA implementa el ciclo ROJO → VERDE → REFACTOR para garantizar calidad, mantenibilidad y reducción de errores.
+
+🔴 ROJO
+
+Escribir pruebas antes que el código.
+
+🟢 VERDE
+
+Implementación mínima para pasar pruebas.
+
+🔵 REFACTOR
+
+Optimización con pruebas en verde.
+
+🧪 Suite de Pruebas
+✔ Backend
+
+Subida de archivos PDF
+
+Procesamiento del contenido
+
+Detección de plagio
+
+JWT Auth
+
+Validaciones y manejo de errores
+
+✔ Frontend
+
+Formularios
+
+Componentes de análisis
+
+Mock API
+
+Simulaciones de usuario
